@@ -1,1 +1,28 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: lightcoral;
+    color: black;
+    padding: 4px;
+    border-radius: 3px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.adjust-size {
+    font-weight: 500;
+    font-size: 35px;
+}
+
+#Big-Blue {
+    color: blue;
+    font-size: 40px;
+}
+
+#Medium-Bold-Green {
+    color: black;
+    font-size: 30px;
+    background-color: lightgreen;
+    padding: 8px;
+    border-radius: 6px;
+    font-weight: bold;
+}
